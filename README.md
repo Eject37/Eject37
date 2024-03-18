@@ -11,7 +11,7 @@
 
 <h3 align="left">Мой Discord-сервер:</h3>
 <p align="left">
-<a href="https://discord.gg/NG6ZxXCXeU" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="NG6ZxXCXeU" height="30" width="40" /></a>
+<a href="https://discord.gg/8baJSRxXSm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="8baJSRxXSm" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Языки и инструменты:</h3>
