@@ -20,7 +20,6 @@
 <h3 align="left">Выразить благодарность:</h3>
 <p>RU Сбер: 4276 2700 1491 6306</p>
 <p>RU Т-Банк (Тинькофф): 2200 7017 3062 4720</p>
-<p>RU YooMoney: 2204 1201 0533 5851</p>
 <p>UA Mono: 4441 1111 2233 1915</p>
 <p>UA Банка: https://send.monobank.ua/jar/zBzS5VE2x</p>
 <p>USDT TRC20: TMbP1XgqCqMpup61vZvdYtNpZC8VF4wmfs</p><br><br>
