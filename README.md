@@ -1,6 +1,6 @@
 <h1 align="center">Привет 👋, Я Сергей</h1>
 <h3 align="center">Разработчик многих полезных вещей для Windows, браузера...</h3>
-<h2 align="center"><a href="https://eject37.github.io" target="_blank">Мои работы + поддержать разработку</a></h3>
+<h2 align="center"><a href="https://eject37.github.io" target="_blank">Мои работы</a></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eject37&label=Profile%20views&color=0e75b6&style=flat" alt="eject37" /> </p>
 
